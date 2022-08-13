@@ -1,0 +1,15 @@
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\bin\Debug\net6.0\Lista_de_alunos.exe
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\bin\Debug\net6.0\Lista_de_alunos.deps.json
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\bin\Debug\net6.0\Lista_de_alunos.runtimeconfig.json
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\bin\Debug\net6.0\Lista_de_alunos.dll
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\bin\Debug\net6.0\Lista_de_alunos.pdb
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\obj\Debug\net6.0\Lista_de_alunos.csproj.AssemblyReference.cache
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\obj\Debug\net6.0\Lista_de_alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\obj\Debug\net6.0\Lista_de_alunos.AssemblyInfoInputs.cache
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\obj\Debug\net6.0\Lista_de_alunos.AssemblyInfo.cs
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\obj\Debug\net6.0\Lista_de_alunos.csproj.CoreCompileInputs.cache
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\obj\Debug\net6.0\Lista_de_alunos.dll
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\obj\Debug\net6.0\refint\Lista_de_alunos.dll
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\obj\Debug\net6.0\Lista_de_alunos.pdb
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\obj\Debug\net6.0\Lista_de_alunos.genruntimeconfig.cache
+C:\Users\gorde\Desktop\treinamento pericles\Lista_de_alunos\Lista_de_alunos\obj\Debug\net6.0\ref\Lista_de_alunos.dll
