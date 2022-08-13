@@ -1,6 +1,10 @@
 ﻿List<string> nomes = new List<string>();
+int count = 1;
 
 string nomeParaAdd = " ";
+
+Console.WriteLine("Lista de Alunos");
+Console.WriteLine("Digite a lista de alunos, e quando nao tiver mais alunos, aperte apenas enter");
 
 while (nomeParaAdd.Length != null)
 {
@@ -18,14 +22,15 @@ Console.WriteLine($"Voce cadastrou {nomes.Count} nomes");
 Console.WriteLine("Lista de nomes:");
 foreach (string nome in nomes)
 {
-    Console.WriteLine(nome);
+    Console.WriteLine("#" + count + " " + nome);
+    count++;
 }
 Console.WriteLine("Deseja remover alguem da lista? (s/n)");
 char escolha = char.Parse(Console.ReadLine());
 
 while (escolha == 's' || escolha == 'S')
 {
-
+    Console.WriteLine("Digite o nome que deseja excluir da lista:");
     nomeParaAdd = Console.ReadLine();
 
     while (nomeParaAdd.Length > 0)
@@ -54,13 +59,14 @@ while (escolha == 's' || escolha == 'S')
         }
     }
 
-    Console.WriteLine("Deseja remover alguem da lista? (s/n)");
+    Console.WriteLine("Deseja remover mais alguem da lista? (s/n)");
     escolha = char.Parse(Console.ReadLine());
 }
-
+count = 1;
 Console.WriteLine($"Voce cadastrou {nomes.Count} nomes");
 Console.WriteLine("Lista de nomes:");
 foreach (string nome in nomes)
 {
-    Console.WriteLine(nome);
+    Console.WriteLine("#" + count + " " + nome);
+    count++;
 }
