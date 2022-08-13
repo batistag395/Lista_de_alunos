@@ -23,7 +23,7 @@ foreach (string nome in nomes)
 Console.WriteLine("Deseja remover alguem da lista? (s/n)");
 char escolha = char.Parse(Console.ReadLine());
 
-if (escolha == 's' || escolha == 'S')
+while (escolha == 's' || escolha == 'S')
 {
 
     nomeParaAdd = Console.ReadLine();
@@ -34,6 +34,7 @@ if (escolha == 's' || escolha == 'S')
         {
             Console.WriteLine("Removido com sucesso");
             nomes.Remove(nomeParaAdd);
+            break;
         }
         else if (!nomes.Contains(nomeParaAdd))
         {
@@ -49,9 +50,12 @@ if (escolha == 's' || escolha == 'S')
         else
         {
             Console.WriteLine("Removido sem sucesso");
+            break;
         }
     }
 
+    Console.WriteLine("Deseja remover alguem da lista? (s/n)");
+    escolha = char.Parse(Console.ReadLine());
 }
 
 Console.WriteLine($"Voce cadastrou {nomes.Count} nomes");
