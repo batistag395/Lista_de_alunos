@@ -12,7 +12,7 @@ while (nomeParaAdd.Length != null)
     nomeParaAdd = Console.ReadLine();
     if (nomeParaAdd.Length == 0)
     {
-        break; 
+        break;
     }
     else
     {
@@ -54,16 +54,6 @@ while (escolha == 's' || escolha == 'S')
             {
                 Console.WriteLine("Removido com sucesso");
                 nomes.Remove(nomeParaAdd);
-
-                count = 1;
-                Console.WriteLine($"Voce cadastrou {nomes.Count} nomes");
-                Console.WriteLine("Lista de nomes:");
-
-                foreach (string nome in nomes)
-                {
-                    Console.WriteLine("#" + count + " " + nome);
-                    count++;
-                }
                 break;
             }
         }
@@ -75,4 +65,13 @@ while (escolha == 's' || escolha == 'S')
     }
     Console.WriteLine("Deseja remover mais alguem da lista? (s/n)");
     escolha = char.Parse(Console.ReadLine());
+}
+count = 1;
+Console.WriteLine($"Voce cadastrou {nomes.Count} nomes");
+Console.WriteLine("Lista de nomes:");
+
+foreach (string nome in nomes)
+{
+    Console.WriteLine("#" + count + " " + nome);
+    count++;
 }
