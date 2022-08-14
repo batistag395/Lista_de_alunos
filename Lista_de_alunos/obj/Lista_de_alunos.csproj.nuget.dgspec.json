@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gorde\\Desktop\\treinamento pericles\\Lista_de_alunos\\Lista_de_alunos\\Lista_de_alunos.csproj": {}
+    "C:\\Users\\gorde\\Desktop\\treinamento inmetrics\\Lista_de_alunos\\Lista_de_alunos\\Lista_de_alunos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gorde\\Desktop\\treinamento pericles\\Lista_de_alunos\\Lista_de_alunos\\Lista_de_alunos.csproj": {
+    "C:\\Users\\gorde\\Desktop\\treinamento inmetrics\\Lista_de_alunos\\Lista_de_alunos\\Lista_de_alunos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gorde\\Desktop\\treinamento pericles\\Lista_de_alunos\\Lista_de_alunos\\Lista_de_alunos.csproj",
+        "projectUniqueName": "C:\\Users\\gorde\\Desktop\\treinamento inmetrics\\Lista_de_alunos\\Lista_de_alunos\\Lista_de_alunos.csproj",
         "projectName": "Lista_de_alunos",
-        "projectPath": "C:\\Users\\gorde\\Desktop\\treinamento pericles\\Lista_de_alunos\\Lista_de_alunos\\Lista_de_alunos.csproj",
+        "projectPath": "C:\\Users\\gorde\\Desktop\\treinamento inmetrics\\Lista_de_alunos\\Lista_de_alunos\\Lista_de_alunos.csproj",
         "packagesPath": "C:\\Users\\gorde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gorde\\Desktop\\treinamento pericles\\Lista_de_alunos\\Lista_de_alunos\\obj\\",
+        "outputPath": "C:\\Users\\gorde\\Desktop\\treinamento inmetrics\\Lista_de_alunos\\Lista_de_alunos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gorde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
