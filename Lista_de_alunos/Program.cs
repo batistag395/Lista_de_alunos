@@ -2,7 +2,7 @@
 
 int count = 1;
 
-string nomeParaAdd = " ";
+string nomeParaAdd = string.Empty;
 
 Console.WriteLine("Lista de Alunos");
 Console.WriteLine("Digite a lista de alunos, e quando nao tiver mais alunos, aperte apenas enter");
